@@ -1,4 +1,4 @@
-# Zebra Handheld Barcode Parsing Script for Aster Pharmacy
+# Zebra Handheld Barcode Parsing Script to Parse Specific GS1 Barcodes
 
 This repository contains a custom script developed for Zebra handheld devices used at Aster Pharmacy. The script is designed to parse specific GS1 barcodes, extracting the Global Trade Item Number (GTIN) and Serial Number, and reformatting the output for seamless integration with internal systems.
 
